@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "removeComments": true,
+    "outFile": "../../built/local/tsc.js"
+  },
+  "files":[
+    "app.ts",
+    "interfaces.ts",
+    "classes.ts",
+  ]
+}
+// cd path and tsc -w app.ts

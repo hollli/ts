@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "csstype": ["node_modules/csstype"]
+    },
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+    "strictNullChecks": true,
+    "outFile": "main.js",
+    "target": "es2015",
+    "module": "esnext"
+  }
+}
